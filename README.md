@@ -25,3 +25,9 @@
 ![HUAWEI Cloud IV Storage Virtualization 12](https://user-images.githubusercontent.com/93165498/145225726-43f686c4-58d8-4031-b8ab-e27c1e8addb3.jpg)
 
 ![HUAWEI Cloud IV Storage Virtualization 13](https://user-images.githubusercontent.com/93165498/145225747-44409cc6-a014-4a2f-a41c-2855311ac589.jpg)
+
+![HUAWEI Cloud IV Storage Virtualization 14](https://user-images.githubusercontent.com/93165498/145225766-92813270-823c-436e-8ced-73dbd0f0aa2a.jpg)
+
+![HUAWEI Cloud IV Storage Virtualization 15](https://user-images.githubusercontent.com/93165498/145225777-e6ff46ca-33f5-4cf0-b74f-3500a35a3d7b.jpg)
+
+![HUAWEI Cloud IV Storage Virtualization 16](https://user-images.githubusercontent.com/93165498/145225794-6a1ed16f-8e87-4c64-a912-df65f646db0b.jpg)
