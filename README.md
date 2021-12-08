@@ -1,6 +1,10 @@
 # HUAWEI Cloud IV Storage Virtualization Basics 
 
-![HUAWEI Cloud Thank You](https://user-images.githubusercontent.com/93165498/143689532-73eb0f18-1b8b-4fe4-800c-1382b8ab29d5.jpg)
-
 ![Cloud-IV-Storage-Virtualization-Basics](https://user-images.githubusercontent.com/93165498/143870298-48706138-ab3e-44ff-af7e-7f943b19b368.jpg)
+
+![HUAWEI Cloud IV Storage Virtualization 02](https://user-images.githubusercontent.com/93165498/145225506-993c4f28-46e3-40ad-b950-5ef11329c67d.jpg)
+
+![HUAWEI Cloud IV Storage Virtualization 03](https://user-images.githubusercontent.com/93165498/145225532-3e023689-313a-4d04-9c03-e7e9d9a36650.jpg)
+
+![HUAWEI Cloud IV Storage Virtualization 04](https://user-images.githubusercontent.com/93165498/145225560-26e4fa23-1c8a-4599-bdb7-5ad2bc21b7c6.jpg)
 
